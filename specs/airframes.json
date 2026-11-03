@@ -1,0 +1,32 @@
+{
+  "schema_version": "0.1.0",
+  "airframes": [
+    {
+      "id": "m-ray",
+      "name": "M-RAY",
+      "role": "agile biomimetic research platform",
+      "stage": "concept-simulation",
+      "mass_kg": null,
+      "propulsion": null,
+      "notes": "Canonical first candidate for simplified simulation."
+    },
+    {
+      "id": "t-shark",
+      "name": "T-SHARK",
+      "role": "high-control experimental platform",
+      "stage": "concept-simulation",
+      "mass_kg": null,
+      "propulsion": null,
+      "notes": "Keep geometry and control assumptions explicit."
+    },
+    {
+      "id": "w-whale",
+      "name": "W-HALE",
+      "role": "large endurance / atmosphere-to-orbit research concept",
+      "stage": "research-concept",
+      "mass_kg": null,
+      "propulsion": null,
+      "notes": "Research branch; no implied physical feasibility."
+    }
+  ]
+}
